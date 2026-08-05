@@ -1,0 +1,4 @@
+Hello!
+My name is Vaishnavi.
+I am studying Computer Science Engineering.
+I am learning Python for Data Analytics.
